@@ -1,0 +1,89 @@
+body{
+    font-family:    Arial ;
+    background-image: url('discord.jpg');
+    background-repeat: repeat;
+    width: 100vw;
+    
+    
+}
+
+
+.font-small{
+    color: #8f8f8f;
+    font-size: 12px;
+}
+#need{
+    color: #8f8f8f9d;
+    font-size: 13px;
+}
+#forgot{
+    font-size:13px;
+}
+#we{
+    font-size:15px;
+    color: #ffffffa6;
+}
+.login{
+    background-color: #36393f;
+    color: white;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%; 
+    width: 770px;   
+}
+
+#qr{
+    background-color: #fff;
+    padding:5px;
+    border-radius: 5px;
+    position:absolute;
+    left: 15%;
+    right: 20%;
+    top: 3%;
+    margin-left: 15px;
+    width: 200px;
+    display: block;
+}
+
+.qr-log{
+    position: absolute;
+    top:65%;
+    text-align: center;
+    
+}
+
+.texto-qr{
+    text-align: center;
+    font-size: 15px;
+}
+
+.form-control{
+    width: 100%;
+    border-color: rgba(0, 0, 0, 0.288);
+    background-color: #2526296b;
+    height: 43px ;
+}
+
+#botao{
+    background-color: #5865f2;
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 14px;
+}
+
+a{
+    color: #00aff4;
+}
+
+#img{
+    background-color: #fff;
+    padding: 6px;
+    border-radius: 3px;
+    margin-left: 55px;
+}
+.mobile{
+    text-align: center;
+    color: #b8b8b8;
+   
+    }
